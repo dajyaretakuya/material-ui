@@ -377,4 +377,3 @@ class Tabs extends Component {
 }
 
 export default withWidth()(Tabs);
-export { Tabs as PureTabs }; // for testing purposes
